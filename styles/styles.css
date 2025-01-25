@@ -35,7 +35,7 @@ h1 {
     padding: .5rem;
 }
 
-main img {
+.self_pic {
     width: 150px;
     height: auto;
     border: 1px solid steelblue;
@@ -57,6 +57,10 @@ main {
     
 }
 
+img {
+    width: 100%;
+    height: auto;
+}
 
 aside {
     text-align: center;   
